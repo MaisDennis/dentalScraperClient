@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "Cunha Interdental Cervicunha de Madeira Colorida - TDV",
+    "price": "R$ 24,90",
+    "href": "https://www.dentalecia.com.br/cunhainterdentalcervicunhademadeiraclridatdv/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156861-200-200/20190618135437_243999757_D.png?v=637418364233600000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:02.204Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Cunha Reflexiva - TDV",
+    "price": "R$ 32,77",
+    "href": "https://www.dentalecia.com.br/cunhareflexivatdv/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156862-200-200/20190509202233_2162997838_D.jpg?v=637418364903270000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:02.204Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cunha Elástica Sortida - TDV",
+    "price": "R$ 30,90",
+    "href": "https://www.dentalecia.com.br/cunhaelasticasrtidatdv/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156860-200-200/20190417043134_6397993603_D.jpg?v=637418363845000000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:02.204Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  }
+]

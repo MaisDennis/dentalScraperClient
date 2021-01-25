@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "Lençol de Borracha Sanctuary - K-Dent",
+    "price": "R$ 22,90",
+    "href": "https://www.dentalecia.com.br/lencldebrrachasanctuarykdent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/159153-200-200/20190521015500_6523993477_D.jpg?v=637421627312530000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:53.019Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Lençol de Borracha para Isolamento Azul - Mk Life",
+    "price": "R$ 25,90",
+    "href": "https://www.dentalecia.com.br/lencldebrrachaparaislamentazulmklife/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/159152-200-200/1616991666_1GG.jpg?v=637421624971730000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:53.019Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  }
+]

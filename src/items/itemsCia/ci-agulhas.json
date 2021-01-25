@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "title": "Seringa Endo Embolo 5ml - Ultradent",
+    "price": "R$ 76,90",
+    "href": "https://www.dentalecia.com.br/seringaendembl5mlultradent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157724-200-200/Seringa-Endo-Embolo-5ml---Ultradent.png?v=637420032841630000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:48.292Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Agulha Hipodermica de Uso Único - Injex",
+    "price": "R$ 9,57",
+    "href": "https://www.dentalecia.com.br/agulhahipdermicadeusunicinjex/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168277-200-200/20190618145128_6471993529.jpg?v=637468451191370000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:48.292Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Agulha Gengival Septoject XL - Septodont",
+    "price": "R$ 65,00",
+    "href": "https://www.dentalecia.com.br/agulhagengivalseptjectxlseptdnt/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/155727-200-200/20190612144618_1294998706_D.jpg?v=637414056587830000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:48.292Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Agulha Hipodermica 0,80 X 25mm Caixa com 100un - BD",
+    "href": "https://www.dentalecia.com.br/agulhahipdermica080x25mmcaixacm100unbd/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168260-200-200/20190621114056_8356991644.jpg?v=637467620774000000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:32:48.292Z\"",
+      "mins": 32,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  }
+]

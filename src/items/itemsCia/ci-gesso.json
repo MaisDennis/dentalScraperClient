@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "title": "Gesso Snow Rock Premium Marfim - OdontoMega",
+    "price": "R$ 57,30",
+    "href": "https://www.dentalecia.com.br/gesssnwrckpremiummarfimdntmega/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158749-200-200/20200722173157_9774990226_D.jpg?v=637420978306900000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:32.535Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Gesso Pedra Herodent Tipo III - Coltene",
+    "price": "R$ 12,90",
+    "href": "https://www.dentalecia.com.br/gesspedraherdenttipiiicltene/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158748-200-200/20190613204611_5237994763_D.jpg?v=637420978002100000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:32.535Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Espátula para Gesso Cabo Plástico - Nova OGP",
+    "price": "R$ 8,00",
+    "href": "https://www.dentalecia.com.br/espatulaparagesscabplasticnvagp/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156347-200-200/20190701142050_13999987_D.jpg?v=637417379002300000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:32.535Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Vibrador de Gesso Vibramaxx Bivolt - Essence Dental VH",
+    "price": "R$ 262,70",
+    "href": "https://www.dentalecia.com.br/vibradrdegessvibramaxxbivltessencedentalvh/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156943-200-200/vibramaxx.jpg?v=637418479602700000",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-24T19:33:32.535Z\"",
+      "mins": 33,
+      "hours": 16,
+      "theDate": 24,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 0
+    }
+  }
+]
