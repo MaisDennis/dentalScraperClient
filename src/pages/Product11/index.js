@@ -5,7 +5,7 @@ import { FaEye } from 'react-icons/fa';
 import CategoryMenu from '../../components/CategoryMenu';
 import sort from '../../utils/sort';
 import sortSurya from '../../utils/sortSurya';
-import sortOnly from '../../utils/sortOnly'
+// import sortOnly from '../../utils/sortOnly'
 import filters from '../../utils/filters';
 import nonFilters from '../../utils/nonFilters';
 import filtersSurya from '../../utils/filtersSurya';
@@ -14,13 +14,13 @@ import SubDivision from '../../components/SubDivision';
 import SearchBar from '../../components/Searchbar'
 import crtira from '../../items/itemsCremer/cr-tira-de-lixa.html.json'
 import sptira from '../../items/itemsSpeed/sp-tiras+de+lixa.json'
-import ontira from '../../items/itemsOnly/on-tira-p-47-acabamento-e-polimento.json'
+// import ontira from '../../items/itemsOnly/on-tira-p-47-acabamento-e-polimento.json'
 import citira from '../../items/itemsCia/ci-discos-de-lixa.json'
 import sutira from '../../items/itemsSurya/su-tiras-de-poliester.html.json'
 
 // -----------------------------------------------------------------------------
 export default function Dashboard(props) {
-  let crKey = []; let spKey = []; let onKey = []; let ciKey = []; let suKey = [];
+  let crKey = []; let spKey = []; let ciKey = []; let suKey = [];
 
   // Filters
   const metalCrTira = filters(crtira, 'aço', 'metálica')
@@ -29,8 +29,8 @@ export default function Dashboard(props) {
   const metalCiTira = filters(citira, 'aço', 'metálica')
   const nonMetalCiTira = nonFilters(citira, 'aço', 'metálica')
 
-  const metalOnTira = filters(ontira, 'aço', 'metálica')
-  const nonMetalOnTira = nonFilters(ontira, 'aço', 'metálica')
+  // const metalOnTira = filters(ontira, 'aço', 'metálica')
+  // const nonMetalOnTira = nonFilters(ontira, 'aço', 'metálica')
 
   const metalSpTira = filters(sptira, 'aço', 'metálica')
   const nonMetalSpTira = nonFilters(sptira, 'aço', 'metálica')
@@ -41,8 +41,9 @@ export default function Dashboard(props) {
   const query = () => {
     const matchURL = props.match.url || '/lencol';
     switch (matchURL) {
-      case ('/tira+metal'): crKey = metalCrTira; spKey = metalSpTira;  onKey = metalOnTira; ciKey = metalCiTira; suKey = metalSuTira; break;
-      case ('/tira+poliester'): crKey = nonMetalCrTira; spKey = nonMetalSpTira;  onKey = nonMetalOnTira; ciKey = nonMetalCiTira; suKey = nonMetalSuTira; break;
+      case ('/tira+metal'): crKey = metalCrTira; spKey = metalSpTira; ciKey = metalCiTira; suKey = metalSuTira; break;
+      case ('/tira+poliester'): crKey = nonMetalCrTira; spKey = nonMetalSpTira; ciKey = nonMetalCiTira; suKey = nonMetalSuTira; break;
+      default: crKey = nonMetalCrTira; spKey = nonMetalSpTira; ciKey = nonMetalCiTira; suKey = nonMetalSuTira; break;
     }
   }
 
@@ -50,7 +51,7 @@ export default function Dashboard(props) {
 
   crKey = sort(crKey); 
   spKey = sort(spKey);
-  onKey = sort(onKey);
+  // onKey = sort(onKey);
   ciKey = sort(ciKey); 
   suKey = sortSurya(suKey); 
 
@@ -59,8 +60,8 @@ export default function Dashboard(props) {
   const [cremerListDefault] = useState(crKey);
   const [speed, setSpeed] = useState(spKey);
   const [speedListDefault] = useState(spKey);
-  const [only, setOnly] = useState(onKey);
-  const [onlyListDefault] = useState(onKey);
+  // const [only, setOnly] = useState(onKey);
+  // const [onlyListDefault] = useState(onKey);
   const [cia, setCia] = useState(ciKey);
   const [ciaListDefault] = useState(ciKey);
   const [surya, setSurya] = useState(suKey);
@@ -69,11 +70,12 @@ export default function Dashboard(props) {
   useEffect(() => {
     setCremer(crKey);
     setSpeed(spKey);
-    setOnly(onKey);
+    // setOnly(onKey);
     setCia(ciKey);
     setSurya(suKey)
   }, [props.match.path])
-
+  // }, [crKey, spKey, ciKey, suKey])
+  
   const updateInput = async (input) => {
     const filteredCremer = cremerListDefault.filter(c => {
       let titleDetail = c.title + c.details
@@ -84,10 +86,10 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
-    const filteredOnly = onlyListDefault.filter(s => {
-      let titleDetail = s.title + s.brand
-      return titleDetail.toLowerCase().includes(input.toLowerCase())
-    })
+    // const filteredOnly = onlyListDefault.filter(s => {
+    //   let titleDetail = s.title + s.brand
+    //   return titleDetail.toLowerCase().includes(input.toLowerCase())
+    // })
     const filteredCia = ciaListDefault.filter(s => {
       let titleDetail = s.title
       return titleDetail.toLowerCase().includes(input.toLowerCase())
@@ -99,7 +101,7 @@ export default function Dashboard(props) {
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
-    setOnly(filteredOnly);
+    // setOnly(filteredOnly);
     setCia(filteredCia);
     setSurya(filteredSurya);
   }

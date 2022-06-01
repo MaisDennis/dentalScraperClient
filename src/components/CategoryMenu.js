@@ -80,7 +80,7 @@ function CategoryMenu(props) {
     if (showDropDownMold) setShowDropDownMold(false)
   }
 
-  function propsReceiverCont(active) {
+  function propsReceiverContinuo(active) {
     let activeKey = null;
     let item = null;
     for (item of dropDownContArray) {
@@ -89,17 +89,13 @@ function CategoryMenu(props) {
     return activeKey
   }
 
-  function propsReceiverEst(active) {
+  function propsReceiverDentistica(active) {
     let activeKey = null;
     let item = null;
     for (item of dropDownEstArray) {
       if(item.ext === active) activeKey = 6
     }
     return activeKey
-  }
-
-  function handleContact() {
-    setToggleContact(!toggleContact)
   }
   // ---------------------------------------------------------------------------
   return (
@@ -175,7 +171,7 @@ function CategoryMenu(props) {
           </div>
         </div>
         <div className="category-menu" onClick={setShowDropDownCont}>
-          {(propsReceiverCont(props.activeProp) === 5)
+          {(propsReceiverContinuo(props.activeProp) === 5)
             ? <button className="category active" autoFocus>Uso Contínuo</button>
             : <button className="category">Uso Contínuo</button>
           }
@@ -192,7 +188,7 @@ function CategoryMenu(props) {
           </div>
         </div>
         <div className="category-menu" onClick={setShowDropDownEst}>
-          {(propsReceiverEst(props.activeProp) === 6)
+          {(propsReceiverDentistica(props.activeProp) === 6)
             ? <button className="category active" autoFocus>Dentística</button>
             : <button className="category">Dentística</button>
           }
@@ -209,7 +205,7 @@ function CategoryMenu(props) {
           </div>
         </div>
         <div className="category-menu" onClick={setShowDropDownProt}>
-          {(propsReceiverEst(props.activeProp) === 7)
+          {(propsReceiverDentistica(props.activeProp) === 7)
             ? <button className="category active" autoFocus>Prótese</button>
             : <button className="category">Prótese</button>
           }
@@ -226,7 +222,7 @@ function CategoryMenu(props) {
           </div>
         </div>
         <div className="category-menu" onClick={setShowDropDownMold}>
-          {(propsReceiverEst(props.activeProp) === 8)
+          {(propsReceiverDentistica(props.activeProp) === 8)
             ? <button className="category active" autoFocus>Moldagem</button>
             : <button className="category">Moldagem</button>
           }
@@ -269,24 +265,18 @@ function CategoryMenu(props) {
                   rel="noopener noreferrer"
                 >
                   <div className="link-div">
-                  <FaWhatsapp size={18}/>
-                  <span className="link-span">
-                  Whatsapp: (11) 9 8349 5853
-                  </span>
-                  
+                    <FaWhatsapp size={18}/>
+                    <span className="link-span">
+                      Whatsapp: (11) 9 8349 5853
+                    </span>
                   </div>
                 </a>
                   Equipe Cyclops Dental
-                  
-                  
               </div>
-            )
-
-            }
+            )}
           </div>
         </div>
       </div>
-      
     </div>
   )
 }

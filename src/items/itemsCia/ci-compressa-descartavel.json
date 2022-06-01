@@ -1,66 +1,82 @@
 [
   {
     "id": 0,
-    "title": "Compressa Gaze 13 Fios Estéril com 10 - Medi House",
-    "price": "R$ 1,00",
-    "href": "https://www.dentalecia.com.br/cmpressagaze13fisesterilcm10medihuse/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168274-200-200/20190724144314_2885997115.jpg?v=637468428761100000",
+    "title": "Compressa de Gaze Clean Ultra 11 Fios - SP Marcas",
+    "price": "R$ 15,90",
+    "href": "https://www.dentalecia.com.br/cmpressadegazecleanultra11fisspmarcas/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168273-200-200/20190423053139_5383994617.png?v=637468428139170000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:46.067Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:53.434Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Compressa Gaze - Medi House",
-    "price": "R$ 22,90",
-    "href": "https://www.dentalecia.com.br/cmpressagazemedihuse/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166778-200-200/20190726161100_9721990279_G.jpg?v=637460550798500000",
+    "title": "Compressa Gaze 13 Fios Estéril com 10 - Medi House",
+    "price": "R$ 1,25",
+    "href": "https://www.dentalecia.com.br/cmpressagaze13fisesterilcm10medihuse/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168274-200-200/20190724144314_2885997115.jpg?v=637468428761100000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:46.067Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:53.434Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
-    "title": "Compressa de Gaze Clean Ultra 11 Fios - SP Marcas",
-    "price": "R$ 12,96",
-    "href": "https://www.dentalecia.com.br/cmpressadegazecleanultra11fisspmarcas/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168273-200-200/20190423053139_5383994617.png?v=637468428139170000",
+    "title": "Compressa Gaze - Medi House",
+    "price": "R$ 28,90",
+    "href": "https://www.dentalecia.com.br/cmpressagazemedihuse/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166778-200-200/20190726161100_9721990279_G.jpg?v=637460550798500000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:46.067Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:53.434Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 3,
+    "title": "Compressa de Gaze 9 Fios Estéril - Cremer",
+    "price": "R$ 1,70",
+    "href": "https://www.dentalecia.com.br/compressa-de-gaze-9-fios-esteril---cremer/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170704-200-200/592719_635591638618033072.jpg?v=637618051739600000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:38:53.434Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
     "title": "Compressa de Gaze Clean Premium 11 Fios - SP Marcas",
-    "price": "R$ 19,84",
+    "price": "R$ 24,50",
     "href": "https://www.dentalecia.com.br/cmpressadegazecleanpremium11fisspmarcas/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167684-200-200/1399-Compressa-de-Gaze-Clean-Premium-11-Fios---SP-Marcas.png?v=637460767016800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:46.067Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:53.434Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

@@ -6,11 +6,11 @@ import SearchBar from '../../components/Searchbar'
 import CategoryMenu from '../../components/CategoryMenu'
 import sort from '../../utils/sort'
 import sortSurya from '../../utils/sortSurya'
-import sortOnly from '../../utils/sortOnly'
+// import sortOnly from '../../utils/sortOnly'
 import SubDivision from '../../components/SubDivision';
 import cremerData from '../../items/itemsCremer/cr-braquete-reposicao.json'
 import speedData from '../../items/itemsSpeed/sp-braquete-reposicao.json'
-import onlyData from '../../items/itemsOnly/on-braquete.json'
+// import onlyData from '../../items/itemsOnly/on-braquete.json'
 import ciaData from '../../items/itemsCia/ci-braquete.json'
 import suryaData from '../../items/itemsSurya/su-braquete-reposicao.json'
 // -----------------------------------------------------------------------------
@@ -24,10 +24,10 @@ export default function Dashboard(props) {
     let titleDetail = s.title + s.details
     return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
   })
-  const filteredDefaultOnly = onlyData.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
-  })
+  // const filteredDefaultOnly = onlyData.filter(s => {
+  //   let titleDetail = s.title + s.details
+  //   return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
+  // })
   const filteredDefaultCia = ciaData.filter(s => {
     let titleDetail = s.title + s.details
     return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
@@ -46,10 +46,10 @@ export default function Dashboard(props) {
     let titleDetail = s.title + s.details
     return !titleDetail.toLowerCase().includes('1 unidade')
   })
-  let multiUnitFilteredOnly = filteredDefaultOnly.filter(s => {
-    let titleDetail = s.title + s.details
-    return !titleDetail.toLowerCase().includes('reposição')
-  })
+  // let multiUnitFilteredOnly = filteredDefaultOnly.filter(s => {
+  //   let titleDetail = s.title + s.details
+  //   return !titleDetail.toLowerCase().includes('reposição')
+  // })
   let multiUnitFilteredCia = filteredDefaultCia.filter(s => {
     let titleDetail = s.title + s.details
     return !titleDetail.toLowerCase().includes('reposição')
@@ -62,7 +62,7 @@ export default function Dashboard(props) {
   // order by price
   multiUnitFilteredCremer = sort(multiUnitFilteredCremer);
   multiUnitFilteredSpeed = sort(multiUnitFilteredSpeed);
-  multiUnitFilteredOnly = sortOnly(multiUnitFilteredOnly);
+  // multiUnitFilteredOnly = sortOnly(multiUnitFilteredOnly);
   multiUnitFilteredCia = sort(multiUnitFilteredCia);
   multiUnitFilteredSurya = sortSurya(multiUnitFilteredSurya);
 
@@ -71,8 +71,8 @@ export default function Dashboard(props) {
   const [ cremerListDefault ] = useState(multiUnitFilteredCremer);
   const [ speed, setSpeed ] = useState(multiUnitFilteredSpeed);
   const [ speedListDefault ] = useState(multiUnitFilteredSpeed);
-  const [ only, setOnly ] = useState(multiUnitFilteredOnly);
-  const [ onlyListDefault ] = useState(multiUnitFilteredOnly);
+  // const [ only, setOnly ] = useState(multiUnitFilteredOnly);
+  // const [ onlyListDefault ] = useState(multiUnitFilteredOnly);
   const [ cia, setCia ] = useState(multiUnitFilteredCia);
   const [ ciaListDefault ] = useState(multiUnitFilteredCia);
   const [ surya, setSurya ] = useState(multiUnitFilteredSurya);
@@ -82,11 +82,11 @@ export default function Dashboard(props) {
   useEffect(() => {
     setCremer(multiUnitFilteredCremer);
     setSpeed(multiUnitFilteredSpeed);
-    setOnly(multiUnitFilteredOnly);
+    // setOnly(multiUnitFilteredOnly);
     setCia(multiUnitFilteredCia);
     setSurya(multiUnitFilteredSurya);
   }, [props.match.path])
-
+// }, [multiUnitFilteredCremer, multiUnitFilteredSpeed, multiUnitFilteredCia, multiUnitFilteredSurya])
 
   const updateInput = async (input) => {
     const filteredCremer = cremerListDefault.filter(c => {
@@ -98,10 +98,10 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
-    const filteredOnly = onlyListDefault.filter(s => {
-      let titleDetail = s.title + s.brand + s.details
-      return titleDetail.toLowerCase().includes(input.toLowerCase())
-    })
+    // const filteredOnly = onlyListDefault.filter(s => {
+    //   let titleDetail = s.title + s.brand + s.details
+    //   return titleDetail.toLowerCase().includes(input.toLowerCase())
+    // })
     const filteredCia = ciaListDefault.filter(s => {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
@@ -113,7 +113,7 @@ export default function Dashboard(props) {
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
-    setOnly(filteredOnly);
+    // setOnly(filteredOnly);
     setCia(filteredCia);
     setSurya(filteredSurya);
   }

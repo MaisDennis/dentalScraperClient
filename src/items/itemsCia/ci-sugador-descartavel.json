@@ -1,50 +1,82 @@
 [
   {
     "id": 0,
-    "title": "Sugador Monoart Descartável - Euronda",
-    "price": "R$ 4,90",
-    "href": "https://www.dentalecia.com.br/sugadrmnartdescartaveleurnda/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157418-200-200/Sugador-Monoart-Descartavel---Euronda.jpg?v=637419931067470000",
+    "title": "Sugador Endodôntico - SSPlus",
+    "price": "R$ 14,49",
+    "href": "https://www.dentalecia.com.br/sugadrenddnticssplus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157411-200-200/Sugador-Endodontico---SSPlus.jpg?v=637419929031970000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:43.714Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:50.427Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Sugador Endodôntico - SSPlus",
-    "price": "R$ 11,52",
-    "href": "https://www.dentalecia.com.br/sugadrenddnticssplus/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157411-200-200/Sugador-Endodontico---SSPlus.jpg?v=637419929031970000",
+    "title": "Sugador Descartável 40un - SSPlus",
+    "price": "R$ 7,50",
+    "href": "https://www.dentalecia.com.br/sugadrdescartavel40unssplus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169119-200-200/Captura-de-Tela-2021-03-04-a%CC%80s-10.34.50.png?v=637504617268270000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:43.714Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:50.427Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
-    "title": "Sugador Descartável 40un - SSPlus",
-    "price": "R$ 5,75",
-    "href": "https://www.dentalecia.com.br/sugadrdescartavel40unssplus/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157410-200-200/Sugador-Descartavel-40un---SSPlus.jpg?v=637419928347930000",
+    "title": "Sugador Monoart Descartável - Euronda",
+    "price": "R$ 7,90",
+    "href": "https://www.dentalecia.com.br/sugadrmnartdescartaveleurnda/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157413-200-200/Sugador-Monoart-Descartavel---Euronda.jpg?v=637419930612570000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:43.714Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:38:50.427Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Sugador Cirúrgico Descartável Estéril com 40 - Indusbello",
+    "price": "R$ 70,90",
+    "href": "https://www.dentalecia.com.br/sugadorcirurgicodescartavelesterilcom40indusbello/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168968-200-200/sugador-cirurgico-modelo-8364.png?v=637497076668370000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:38:50.427Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sugador Cirúrgico Descartável Estéril com 20 - Indusbello",
+    "price": "R$ 35,90",
+    "href": "https://www.dentalecia.com.br/sugadorcirurgicodescartavelesterilcom20indusbello/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168967-200-200/sugador-cirurgico-modelo-9775.png?v=637497068492500000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:38:50.427Z\"",
+      "mins": 38,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

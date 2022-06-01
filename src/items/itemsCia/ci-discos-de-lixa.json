@@ -1,177 +1,256 @@
 [
   {
     "id": 0,
-    "title": "Kit Flexi D Disco de Lixa Sortido EVE - ODONTOMEGA",
-    "price": "R$ 412,80",
-    "href": "https://www.dentalecia.com.br/kitflexiddiscdelixasrtidevedntmega/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157144-200-200/20200722102410_7309992691_DZ.jpg?v=637419197678330000",
+    "title": "Disco de Lixa Diamond PRO - FGM",
+    "price": "R$ 59,47",
+    "href": "https://www.dentalecia.com.br/discdelixadiamndprfgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168732-200-200/412147.jpg?v=637490074195700000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Disco Diamantado Dupla Face Total - American Burrs-",
-    "price": "R$ 36,90",
-    "href": "https://www.dentalecia.com.br/discdiamantadduplafacettalamericanburrs/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166935-200-200/20200521163905_8490991510_G.jpg?v=637460554146830000",
+    "title": "Disco de Lixa Praxis - TDV",
+    "price": "R$ 87,90",
+    "href": "https://www.dentalecia.com.br/discdelixapraxistdv/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166917-200-200/20190522032559_4032995968_D.jpg?v=637460554103900000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
+    "title": "Disco de Polimento Super-Snap Singles 0501 - Shofu",
+    "price": "R$ 35,90",
+    "href": "https://www.dentalecia.com.br/discodepolimentosuper-snapsingles0501shofu/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170148-200-200/794946.jpg?v=637574738323400000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Disco de Polimento Super-Snap - Shofu",
+    "price": "R$ 41,90",
+    "href": "https://www.dentalecia.com.br/discodepolimentosupersnapshofu/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170144-200-200/511062_636046334483384906.jpg?v=637574719023570000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Disco De Lixa Sof-Gloss + Mandril - American Burrs",
+    "price": "R$ 61,90",
+    "href": "https://www.dentalecia.com.br/discodelixasofglossmandrilamericanburrs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169493-200-200/superfino1.gif?v=637534833825970000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "Kit Disco De Lixa Sof-Gloss - American Burrs",
+    "price": "R$ 119,90",
+    "href": "https://www.dentalecia.com.br/discodelixasofglosskitamericanburrs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169488-200-200/KIT40SOF.gif?v=637534263640470000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 6,
+    "title": "Kit Flexi D Disco de Lixa Sortido EVE - ODONTOMEGA",
+    "price": "R$ 439,00",
+    "href": "https://www.dentalecia.com.br/kitflexiddiscdelixasrtidevedntmega/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157145-200-200/20200722102410_7309992691_DZ.jpg?v=637419200049000000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 7,
+    "title": "Disco Diamantado Dupla Face Total - American Burrs",
+    "price": "R$ 55,80",
+    "href": "https://www.dentalecia.com.br/discdiamantadduplafacettalamericanburrs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166935-200-200/20200521163905_8490991510_G.jpg?v=637460554146830000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
     "title": "Disco de Polimento Super-Snap Mini-Kit - Shofu",
     "price": "R$ 269,90",
     "href": "https://www.dentalecia.com.br/discdeplimentsupersnapminikitshfu/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168404-200-200/20200829103754_7086992914.png?v=637469371969430000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 3,
-    "title": "Disco de Lixa Super-Snap - Shofu",
-    "price": "R$ 269,90",
+    "id": 9,
+    "title": "Disco de Polimento Super-Snap - Shofu",
+    "price": "R$ 220,90",
     "href": "https://www.dentalecia.com.br/discdelixasupersnapshfu/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166931-200-200/20201007111700_2859997141_GZ.jpg?v=637460554137770000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 4,
+    "id": 10,
     "title": "Disco de Lixa Superfix - TDV",
-    "price": "R$ 61,88",
+    "price": "R$ 73,90",
     "href": "https://www.dentalecia.com.br/discdelixasuperfixtdv/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166927-200-200/20190617104309_4564995436_D.jpg?v=637460554130200000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 5,
+    "id": 11,
     "title": "Disco de Lixa Sof-Lex Pop On - 3M",
     "price": "R$ 171,90",
     "href": "https://www.dentalecia.com.br/discdelixasflexppn3m/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166920-200-200/20200804174124_2915997085_DZ.jpg?v=637460554114230000",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157115-200-200/20200804174124_2915997085_DZ.jpg?v=637419129933100000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 6,
+    "id": 12,
     "title": "Disco de Lixa Sof-Lex Nacional - 3M",
     "price": "R$ 154,70",
     "href": "https://www.dentalecia.com.br/discdelixasflexnacinal3m/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166918-200-200/20200804180313_2304997696_DZ.jpg?v=637460554107200000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 7,
-    "title": "Disco de Lixa Praxis - TDV",
-    "price": "R$ 63,79",
-    "href": "https://www.dentalecia.com.br/discdelixapraxistdv/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166916-200-200/20190522032559_4032995968_D.jpg?v=637460554102200000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 8,
-    "title": "Disco de Lixa Diamond Pro 56 Unidades - FGM",
-    "price": "R$ 83,27",
+    "id": 13,
+    "title": "Disco de Lixa Diamond Pro - FGM",
+    "price": "R$ 99,10",
     "href": "https://www.dentalecia.com.br/discdelixadiamndpr56unidadesfgm/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/157103-200-200/20190510001459_2491997509_D.jpg?v=637419127103930000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 9,
-    "title": "Disco de Lixa Diamond PRO - FGM",
-    "price": "R$ 43,35",
-    "href": "https://www.dentalecia.com.br/discdelixadiamndprfgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/166915-200-200/20200903135207_3136996864_DZ.png?v=637460554099200000",
+    "id": 14,
+    "title": "Disco de Lixa Superfix - TDV",
+    "href": "https://www.dentalecia.com.br/discodelixasuperfixtdv/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169556-200-200/212129_.jpg?v=637539357825570000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 10,
-    "title": "Disco de Lixa Sof-Lex Nacional 1958D - 3M",
-    "href": "https://www.dentalecia.com.br/discdelixasflexnacinal1958d3m/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/163521-200-200/Seringa-Carpule-com-Refluxo---Quinelato.jpg?v=637442950474870000",
+    "id": 15,
+    "title": "Mega Kit de Disco de Lixa Sof-lex Pop on - 3M",
+    "href": "https://www.dentalecia.com.br/megakitdediscodelixasoflexpopon3m/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169160-200-200/sof-lex.png?v=637508977746470000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:04.466Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:17.920Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

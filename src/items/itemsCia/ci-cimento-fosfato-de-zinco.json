@@ -2,80 +2,78 @@
   {
     "id": 0,
     "title": "Cimento de Zinco Pó - SS White",
-    "price": "R$ 16,00",
+    "price": "R$ 17,90",
     "href": "https://www.dentalecia.com.br/cimentdezincpsswhite/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168080-200-200/1254Cimento-de-Zinco-Po%CC%81---SS-White.jpg?v=637461403912930000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Cimento de Zinco LS 28g Pó - Coltene",
-    "price": "R$ 17,00",
-    "href": "https://www.dentalecia.com.br/cimentdezincls28gpcltene/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168079-200-200/1253Cimento-de-Zinco-LS-28g-Po%CC%81---Coltene.jpg?v=637461403835500000",
+    "title": "Cimento de Zinco Líquido - SS White",
+    "price": "R$ 17,90",
+    "href": "https://www.dentalecia.com.br/cimentdezincliquidsswhite/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168076-200-200/1250-Cimento-de-Zinco-Li%CC%81quido---SS-White.jpg?v=637461403576600000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
-    "title": "Cimento de Zinco LS 10ml Líquido - Coltene",
-    "price": "R$ 9,51",
-    "href": "https://www.dentalecia.com.br/cimentdezincls10mlliquidcltene/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168078-200-200/1252Cimento-de-Zinco-LS-10ml-Li%CC%81quido---Coltene.jpg?v=637461403742700000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 3,
-    "title": "Cimento de Zinco Líquido - SS White",
-    "price": "R$ 17,00",
-    "href": "https://www.dentalecia.com.br/cimentdezincliquidsswhite/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168076-200-200/1250-Cimento-de-Zinco-Li%CC%81quido---SS-White.jpg?v=637461403576600000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 4,
     "title": "Cimento de Zinco Pó 28g - Maquira",
     "href": "https://www.dentalecia.com.br/cimentdezincp28gmaquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168081-200-200/1255Cimento-de-Zinco-Po%CC%81-28g---Maquira.jpg?v=637461404535300000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cimento de Zinco LS 28g Pó - Coltene",
+    "href": "https://www.dentalecia.com.br/cimentdezincls28gpcltene/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168079-200-200/1253Cimento-de-Zinco-LS-28g-Po%CC%81---Coltene.jpg?v=637461403835500000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Cimento de Zinco LS 10ml Líquido - Coltene",
+    "href": "https://www.dentalecia.com.br/cimentdezincls10mlliquidcltene/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168078-200-200/1252Cimento-de-Zinco-LS-10ml-Li%CC%81quido---Coltene.jpg?v=637461403742700000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
@@ -84,13 +82,13 @@
     "href": "https://www.dentalecia.com.br/cimentdezincliquid10mlmaquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168077-200-200/1251Cimento-de-Zinco-Li%CC%81quido-10ml---Maquira.jpg?v=637461403660000000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:23.793Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:41.658Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

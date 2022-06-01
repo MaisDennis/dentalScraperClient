@@ -5,7 +5,7 @@ import { FaEye } from 'react-icons/fa';
 import CategoryMenu from '../../components/CategoryMenu';
 import sort from '../../utils/sort';
 import sortSurya from '../../utils/sortSurya';
-import sortOnly from '../../utils/sortOnly'
+// import sortOnly from '../../utils/sortOnly'
 import filters from '../../utils/filters';
 import filtersSurya from '../../utils/filtersSurya'
 import nonFilters from '../../utils/nonFilters';
@@ -30,7 +30,6 @@ import crmatriz from '../../items/itemsCremer/cr-matriz.html.json'
 import crresina from '../../items/itemsCremer/cr-resina-composta.json'
 import crrestaurador from '../../items/itemsCremer/cr-restaurador-provisorio.html.json'
 import crsugador from '../../items/itemsCremer/cr-sugador-descartavel.html.json'
-import crtira from '../../items/itemsCremer/cr-tira-de-lixa.html.json'
 import crresinaacrilica from '../../items/itemsCremer/cr-resina-acrilica.html.json'
 import cralginato from '../../items/itemsCremer/cr-alginato.html.json'
 import crgesso from '../../items/itemsCremer/cr-gesso.html.json'
@@ -60,7 +59,6 @@ import spmatriz from '../../items/itemsSpeed/sp-matriz.json'
 import spresina from '../../items/itemsSpeed/sp-resina-dental.json'
 import sprestaurador from '../../items/itemsSpeed/sp-restaurador-provisorio.json'
 import spsugador from '../../items/itemsSpeed/sp-sugadores.json'
-import sptira from '../../items/itemsSpeed/sp-tiras+de+lixa.json'
 import spresinaacrilica from '../../items/itemsSpeed/sp-resina-acrilica-protese.json'
 import spalginato from '../../items/itemsSpeed/sp-alginatos.json'
 import spgesso from '../../items/itemsSpeed/sp-gesso-protese.json'
@@ -107,7 +105,6 @@ import cimatriz from '../../items/itemsCia/ci-matriz.json'
 import ciresina from '../../items/itemsCia/ci-resina-composta.json'
 import cirestaurador from '../../items/itemsCia/_empty.json' // rever
 import cisugador from '../../items/itemsCia/ci-sugador-descartavel.json'
-import citira from '../../items/itemsCia/ci-discos-de-lixa.json'
 import ciresinaacrilica from '../../items/itemsCia/_empty.json'
 import cialginato from '../../items/itemsCia/ci-alginato.json'
 import cigesso from '../../items/itemsCia/ci-gesso.json'
@@ -139,7 +136,6 @@ import sumatriz from '../../items/itemsSurya/su-matriz.json'
 import suresina from '../../items/itemsSurya/su-resinas.json'
 import surestaurador from '../../items/itemsSurya/su-obturadores-restauradores.html.json'
 import susugador from '../../items/itemsSurya/su-sugadores-cirurgicos-plasticos.html.json'
-import sutira from '../../items/itemsSurya/su-tiras-de-poliester.html.json'
 import suresinaacrilica from '../../items/itemsSurya/su-resina-acrilica.json'
 import sualginatosilicones from '../../items/itemsSurya/su-alginato-silicones.json' // separar
 import sugesso from '../../items/itemsSurya/su-gesso.json'
@@ -220,14 +216,15 @@ export default function Dashboard(props) {
       case ('/alginato'): crKey = cralginato; spKey = spalginato; onKey = onsugador; ciKey = cialginato; suKey = filteredSuAlginato; break;
       case ('/silicone-de-adicao'): crKey = crsiliconedeadicao; spKey = spsiliconedeadicao; onKey = onsugador; ciKey = cisiliconedeadicao; suKey = filteredSuSiliconeDeAdicao; break;
       case ('/silicone-de-condensacao'): crKey = crsiliconedecondensacao; spKey = spsiliconedecondensacao; onKey = onsugador; ciKey = cisiliconedecondensacao; suKey = filteredSuSiliconeDeCondensacao; break;
-      case ('/alginato'): crKey = cralginato; spKey = spalginato; onKey = onsugador; ciKey = cialginato; suKey = filteredSuAlginato; break;
 
       case ('/pino-de-fibra'): crKey = crpinodefibra; spKey = filteredSpPinoDeFibra; onKey = ontira; ciKey = cipinodefibra; suKey = supinodefibra; break;
       case ('/pino-metalico'): crKey = crpinometalico; spKey = filteredSpPinoMetalico; onKey = ontira; ciKey = cipinometalico; suKey = supinometalico; break;
       case ('/cimento-resinoso'): crKey = crcimentoresinoso; spKey = filteredSpCimentoResinoso; onKey = ontira; ciKey = cicimentoresinoso; suKey = sucimentoresinoso; break;
       case ('/cimento-provisorio'): crKey = crcimentoprovisorio; spKey = filteredSpCimentoProvisorio; onKey = ontira; ciKey = cicimentoprovisorio; suKey = sucimentoprovisorio; break;
       case ('/cimento-de-zinco'): crKey = crcimentodezinco; spKey = filteredSpCimentoDeZinco; onKey = ontira; ciKey = cicimentodezinco; suKey = sucimentodezinco; break;
-      default: crKey = cracido; spKey = spacido; onKey = onacido; ciKey = ciacido; suKey = suacido;
+      default: crKey = cracido; spKey = spacido; 
+        // onKey = onacido; 
+        ciKey = ciacido; suKey = suacido;
     }
   }
   
@@ -239,7 +236,7 @@ export default function Dashboard(props) {
 
   crKey = sort(crKey);
   spKey = sort(spKey);
-  onKey = sort(onKey);
+  // onKey = sort(onKey);
   ciKey = sort(ciKey);
   suKey = sortSurya(suKey);
   
@@ -250,7 +247,7 @@ export default function Dashboard(props) {
   const [speed, setSpeed] = useState(spKey);
   const [speedListDefault] = useState(spKey);
   // const [only, setOnly] = useState(onKey);
-  const [onlyListDefault] = useState(onKey);
+  // const [onlyListDefault] = useState(onKey);
   const [cia, setCia] = useState(ciKey);
   const [ciaListDefault] = useState(ciKey);
   const [surya, setSurya] = useState(suKey);
@@ -263,6 +260,7 @@ export default function Dashboard(props) {
     setCia(ciKey);
     setSurya(suKey);
   }, [props.match.path])
+  // }, [crKey, spKey, ciKey, suKey])
 
   const updateInput = async (input) => {
     const filteredCremer = cremerListDefault.filter(c => {
@@ -274,10 +272,10 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
-    const filteredOnly = onlyListDefault.filter(s => {
-      let titleDetail = s.title + s.brand
-      return titleDetail.toLowerCase().includes(input.toLowerCase())
-    })
+    // const filteredOnly = onlyListDefault.filter(s => {
+    //   let titleDetail = s.title + s.brand
+    //   return titleDetail.toLowerCase().includes(input.toLowerCase())
+    // })
     const filteredCia = ciaListDefault.filter(s => {
       let titleDetail = s.title
       return titleDetail.toLowerCase().includes(input.toLowerCase())

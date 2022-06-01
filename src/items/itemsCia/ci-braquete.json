@@ -1,33 +1,258 @@
 [
   {
     "id": 0,
-    "title": "Bráquete de Aço Monobloco Roth 022 Kit 3M - Abzil",
-    "price": "R$ 160,00",
-    "href": "https://www.dentalecia.com.br/braquetedeacomonobloco5casosroth022kit3mabzil/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/159458-200-200/20201105172639_1866998134.png?v=637437237561600000",
+    "title": "Bráquete Cerâmico Ceramic Roth 022 - Morelli",
+    "price": "R$ 34,25",
+    "href": "https://www.dentalecia.com.br/braqueteceramicoceramicroth022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170615-200-200/1011001_grande.jpg?v=637613503830700000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:25.883Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Bráquete de Aço Monobloco Roth 022 Kit 3M - Abzil",
-    "href": "https://www.dentalecia.com.br/braquetedeacomonoblocoroth022kit3mabzil/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/159457-200-200/20201105172619_1344998656.png?v=637437227746270000",
+    "title": "Kit Bráquete de Aço Capelozza Max III 022 - Morelli",
+    "price": "R$ 31,90",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacocapelozzamaxiii022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169579-200-200/1019906_grande.jpg?v=637540259956300000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:25.883Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Kit Bráquete de Aço Capelozza I Max 022 - Morelli",
+    "price": "R$ 31,90",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacocapelozzaimax022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169578-200-200/1019904_grande.jpg?v=637540253797570000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Kit Bráquete de Aço Edgewise Slim Max 022 - Morelli",
+    "price": "R$ 18,70",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeeacoedgewiseslimmax022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169577-200-200/1065905_grande.jpg?v=637540238588270000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Kit Bráquete de Aço Edgewise Slim Max 022 - Morelli",
+    "price": "R$ 19,80",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacoedgewiseslimmax022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169575-200-200/1065907_grande.jpg?v=637540229084630000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "Kit Bráquete de Aço Autoligado SLH Roth 022 - Morelli",
+    "price": "R$ 154,00",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacoautoligadoslhroth022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169572-200-200/1014900_grande.jpg?v=637540090426830000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 6,
+    "title": "Kit Bráquete Cerâmico PolySafira Roth 022 - Morelli",
+    "price": "R$ 322,92",
+    "href": "https://www.dentalecia.com.br/kitbraqueteceramicopolysafiraroth022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169569-200-200/1024900_grande.jpg?v=637540068762870000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 7,
+    "title": "Kit Bráquete Cerâmico Ceramic Edgewise 022 - Morelli",
+    "price": "R$ 122,02",
+    "href": "https://www.dentalecia.com.br/kitbraqueteceramicoceramicedgewise022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169568-200-200/1018901_grande.jpg?v=637540060397530000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Kit Bráquete de Aço Edgewise Standard 022 - Morelli",
+    "price": "R$ 18,70",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacoedgewisestandard022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169567-200-200/1030901_grande.jpg?v=637540051804930000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
+    "title": "Kit Bráquete de Aço Roth Light 13° 022 - Morelli",
+    "price": "R$ 32,18",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacorothlight13%C2%B0022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169562-200-200/1010979_grande.jpg?v=637539436731100000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Kit Bráquete de Aço Roth Light 9° 022 - Morelli",
+    "price": "R$ 30,50",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacorothlight9%C2%B0022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169560-200-200/1010981_grande.jpg?v=637539429639970000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 11,
+    "title": "Kit Bráquete de Aço Roth Light 9° 022 - Morelli",
+    "price": "R$ 28,50",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacorothlight9022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169559-200-200/1010963_grande.jpg?v=637539414443170000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 12,
+    "title": "Kit Bráquete de Aço Biofuncional Classe III Roth Light 022 - Morelli",
+    "price": "R$ 35,53",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacobiofuncionalclasseiiirothlight022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169558-200-200/1010920_grande.jpg?v=637539396124030000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "MegaKit Bráquete de Aço Roth Light 13° 022 - Morelli",
+    "price": "R$ 302,37",
+    "href": "https://www.dentalecia.com.br/megakitbraquetedeacorothlight13%C2%B0022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169555-200-200/509014.jpg?v=637539342334100000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Kit Bráquete de Aço Roth Max 13º 022 – Morelli",
+    "price": "R$ 31,83",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacorothmax13%C2%BA022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169554-200-200/1015905_grande.jpg?v=637539331076230000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 15,
+    "title": "Kit Bráquete de Aço Roth Max 9º 022 – Morelli",
+    "price": "R$ 32,00",
+    "href": "https://www.dentalecia.com.br/kitbraquetedeacorotmax9%C2%BA022morelli/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169553-200-200/1015903_grande.jpg?v=637539326263430000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:44.537Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

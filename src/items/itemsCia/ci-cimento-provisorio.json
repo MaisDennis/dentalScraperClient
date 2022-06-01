@@ -1,146 +1,256 @@
 [
   {
     "id": 0,
+    "title": "Cimento Provisório LysTemp - Lysanda",
+    "price": "R$ 32,45",
+    "href": "https://www.dentalecia.com.br/cimentoprovisoriolystemplysanda/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168850-200-200/Captura-de-Tela-2021-02-18-a%CC%80s-16.27.24.png?v=637492732574130000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Cimento Restaurador Provisório Cimpat - Septodont",
+    "price": "R$ 52,90",
+    "href": "https://www.dentalecia.com.br/cimentorestauradorprovisoriocimpatseptodont/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170714-200-200/cimpatrosa.gif?v=637618803591130000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cimento Provisório Temp Bond NE - Kerr",
+    "price": "R$ 104,90",
+    "href": "https://www.dentalecia.com.br/cimentoprovisoriotempbondnekerr/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170112-200-200/292664.jpg?v=637571287072500000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Restaurador Provisório Clip Flow - Voco",
+    "price": "R$ 128,90",
+    "href": "https://www.dentalecia.com.br/restauradorprovisorioclipflowvoco/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169359-200-200/701615_635889938340193395.jpg?v=637526328866200000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Restaurador Provisório Clip F - Voco",
+    "price": "R$ 147,90",
+    "href": "https://www.dentalecia.com.br/restauradorprovisorioclipfvoco/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169358-200-200/568790_635514764541144207.jpg?v=637526270078930000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
     "title": "Restaurador Provisório Applic - Maquira",
     "price": "R$ 39,58",
     "href": "https://www.dentalecia.com.br/restauradrprvisriapplicmaquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158291-200-200/Restaurador-Provisorio-Applic---Maquira.jpg?v=637420734891470000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 1,
+    "id": 6,
     "title": "Óxido de Zinco - Maquira",
-    "price": "R$ 6,43",
+    "price": "R$ 5,97",
     "href": "https://www.dentalecia.com.br/xiddezincmaquira/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158918-200-200/Oxido-de-Zinco---Maquira.jpg?v=637421017833300000",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169216-200-200/oxido_zinco.jpg?v=637510821896130000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "Obturador Provisório - Lysanda",
-    "price": "R$ 12,87",
+    "price": "R$ 11,90",
     "href": "https://www.dentalecia.com.br/bturadrprvisrilysanda/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158901-200-200/Obturador-Provisorio---Lysanda.png?v=637421013068130000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 3,
+    "id": 8,
     "title": "Cimento Restaurador Provisório Coltosol - Coltene",
-    "price": "R$ 23,17",
+    "price": "R$ 29,50",
     "href": "https://www.dentalecia.com.br/cimentrestauradrprvisricltslcltene/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167371-200-200/1295-Cimento-Restaurador-Provisorio-Coltosol---Coltene.jpg?v=637460608705500000",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169808-200-200/297898_2.jpg?v=637552250264900000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 4,
+    "id": 9,
     "title": "Cimento Pulpo-San Pó 50g - SS White",
     "price": "R$ 27,90",
     "href": "https://www.dentalecia.com.br/cimentpulpsanp50gsswhite/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168327-200-200/20190510033913_3377996623.jpg?v=637469169526030000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 5,
+    "id": 10,
     "title": "Cimento Pulpo-San Líquido 20ml - SS White",
     "price": "R$ 24,90",
     "href": "https://www.dentalecia.com.br/cimentpulpsanliquid20mlsswhite/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168325-200-200/20190510032455_1741998259.jpg?v=637469167161330000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 6,
+    "id": 11,
     "title": "Cimento Provitemp Provisório - Biodinâmica",
     "price": "R$ 72,90",
     "href": "https://www.dentalecia.com.br/cimentprvitempprvisribidinamica/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167350-200-200/Cimento-Provitemp-Provisorio---Biodinamica_1273.jpg?v=637460601824900000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 7,
+    "id": 12,
+    "title": "Cimento Provisório Provicol - Voco",
+    "price": "R$ 124,90",
+    "href": "https://www.dentalecia.com.br/cimentprvisriprviclvc/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167348-200-200/Cimento-Provisorio-Provicol---Voco_1271.jpg?v=637460599179000000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "Cimento Obturador Provisório com Flúor 25g - Villevie",
+    "price": "R$ 20,90",
+    "href": "https://www.dentalecia.com.br/cimentbturadrprvisricflur25gvillevie/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167346-200-200/Cimento-Obturador-Provisorio-c-Fluor-25g---Villevie_1268.png?v=637460597171470000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
     "title": "Cimento Provisório Temp Cem NE - Coltene",
-    "price": "R$ 65,86",
     "href": "https://www.dentalecia.com.br/cimentprvisritempcemnecltene/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156647-200-200/20190614005035_6242993758_D.jpg?v=637418207320570000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 8,
+    "id": 15,
     "title": "Cimento Obturador Provisório Obtur - Maquira",
-    "price": "R$ 12,60",
     "href": "https://www.dentalecia.com.br/cimentbturadrprvisribturmaquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156645-200-200/20190312164405_9017990983_DZ.jpg?v=637418206523800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:21.728Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:37.983Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

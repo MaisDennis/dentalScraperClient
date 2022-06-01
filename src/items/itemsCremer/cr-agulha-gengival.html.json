@@ -3,153 +3,160 @@
   "id": 0,
   "title": "Agulha Gengival - Procare",
   "details": "Embalagem com 100 unidades. Extra-curta, curta ou longa.",
-  "price": "R$37,90",
+  "price": "R$53,12",
   "href": "https://www.dentalcremer.com.br/agulha-gengival-procare-dc19714.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/692969_2.jpg",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 1,
-  "title": "Agulha Gengival Unoject - Nova DFL",
-  "details": "Embalagem com 100 unidades. Escolha o tamanho.",
-  "price": "R$54,49",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-unoject-nova-dfl-dc26547.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/DC26547.jpg",
+  "title": "Agulha Gengival Septoject XL - SEPTODONT",
+  "details": "Embalagem com 100 unidades. Escolha o modelo.",
+  "price": "R$69,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-septoject-xl-septodont-dc16406.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 2,
-  "title": "Agulha Gengival - Injex",
-  "details": "Embalagem com 100 unidades. Escolha o modelo.",
-  "price": "R$46,00",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-injex-dc10072.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/268355_2.jpg",
+  "title": "Agulha Gengival Unoject - Nova DFL",
+  "details": "Embalagem com 100 unidades. Escolha o tamanho.",
+  "price": "R$74,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-unoject-nova-dfl-dc26547.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 3,
-  "title": "Agulha Gengival - Allprime",
+  "title": "Agulha Gengival - Injex",
   "details": "Embalagem com 100 unidades. Escolha o modelo.",
-  "price": "R$32,90",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-allprime-dc25611.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/DC25611.jpg",
+  "price": "R$39,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-injex-dc10072.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 4,
-  "title": "Agulha Gengival Dencojet - Nova DFL",
-  "details": "Embalagem com 100 unidades. Curta.",
-  "price": "R$49,90",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-dencojet-nova-dfl-713169.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/713169_4.jpg",
+  "title": "Agulha Gengival - AllPrime",
+  "details": "Embalagem com 100 unidades. Escolha o modelo.",
+  "price": "R$29,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-allprime-dc25611.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 5,
   "title": "Agulha Gengival Dencojet - Nova DFL",
   "details": "Embalagem com 100 unidades. Longa.",
-  "price": "R$52,00",
+  "price": "R$49,90",
   "href": "https://www.dentalcremer.com.br/agulha-gengival-dencojet-nova-dfl-713176.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/713176_1.jpg",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 6,
-  "title": "Agulha Gengival Septoject XL - SEPTODONT",
-  "details": "Embalagem com 100 unidades. Escolha o modelo.",
-  "price": "R$58,96",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-septoject-xl-septodont-dc16406.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/547030.jpg",
+  "title": "Agulha Gengival Dencojet - Nova DFL",
+  "details": "Embalagem com 100 unidades. Curta.",
+  "price": "R$49,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-dencojet-nova-dfl-713169.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 7,
-  "title": "Agulha Gengival - Terumo ",
-  "details": "Embalagem com 100 unidades. Escolha o modelo.",
-  "price": "R$105,90",
-  "href": "https://www.dentalcremer.com.br/agulha-gengival-terumo-terumo-dc16145.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/538052.jpg",
+  "title": "Agulha Gengival Nanoject 25mm - Ultradent",
+  "details": "Embalagem com 100 unidades. 30G. 25mm x 0,3mm.",
+  "price": "R$75,00",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-nanoject-25mm-ultradent-117676.html",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  },
  {
   "id": 8,
+  "title": "Agulha Gengival - Terumo ",
+  "details": "Embalagem com 100 unidades. Escolha o modelo.",
+  "price": "R$105,90",
+  "href": "https://www.dentalcremer.com.br/agulha-gengival-terumo-terumo-dc16145.html",
+  "time": {
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 9,
   "title": "Agulha Gengival Jets - Injecta",
   "details": "Cartucho com 100 unidades. Escolha o tamanho.",
-  "price": "R$28,70",
+  "price": "R$45,44",
   "href": "https://www.dentalcremer.com.br/agulha-gengival-jets-injecta-dc10073.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/512786.jpg",
   "time": {
-   "stringifiedTimeData": "\"2021-01-24T18:55:42.189Z\"",
-   "mins": 55,
-   "hours": 15,
-   "theDate": 24,
-   "theMonth": 1,
+   "stringifiedTimeData": "\"2021-07-20T13:45:03.282Z\"",
+   "mins": 45,
+   "hours": 10,
+   "theDate": 20,
+   "theMonth": 7,
    "theYear": 2021,
-   "theDay": 0
+   "theDay": 2
   }
  }
 ]

@@ -1,5 +1,3 @@
-import React from 'react'
-
 function sort(key) {
   key.map(a => {
     if (a.dividedPrice) {

@@ -4,17 +4,17 @@
     "title": "Água Destilada 5L",
     "brand": "QUIMIDROL",
     "details": "Embalagem c/ 5l.",
-    "price": "R$ 17,90",
+    "price": "R$ 19,90",
     "href": "https://www.dentalspeed.com/familia/agua-destilada-5l-quimidrol",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-agua-destilada-5l-quimidrol.png",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:05:49.525Z\"",
-      "mins": 5,
-      "hours": 16,
-      "theDate": 24,
+      "stringifiedTimeData": "\"2021-01-21T02:08:43.213Z\"",
+      "mins": 8,
+      "hours": 23,
+      "theDate": 20,
       "theMonth": 1,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
@@ -22,17 +22,17 @@
     "title": "Água Destilada",
     "brand": "SOFT WATER",
     "details": "Embalagem c/ 5l.",
-    "price": "R$ 19,90",
+    "price": "R$ 17,90",
     "href": "https://www.dentalspeed.com/familia/agua-destilada-water-clean",
     "img": "https://cdn.dentalspeed.com/produtos/150/agua-destilada-p-autoclave-5-litros-soft-water-007.png",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:05:49.525Z\"",
-      "mins": 5,
-      "hours": 16,
-      "theDate": 24,
+      "stringifiedTimeData": "\"2021-01-21T02:08:43.213Z\"",
+      "mins": 8,
+      "hours": 23,
+      "theDate": 20,
       "theMonth": 1,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
@@ -44,13 +44,13 @@
     "href": "https://www.dentalspeed.com/familia/agua-deionizada-1l-asfer",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-agua-deionizada-1l-asfer.png",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:05:49.525Z\"",
-      "mins": 5,
-      "hours": 16,
-      "theDate": 24,
+      "stringifiedTimeData": "\"2021-01-21T02:08:43.213Z\"",
+      "mins": 8,
+      "hours": 23,
+      "theDate": 20,
       "theMonth": 1,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 3
     }
   }
 ]

@@ -1,162 +1,176 @@
 [
   {
     "id": 0,
+    "title": "Ionômero de Vidro Restaurador Maxxion R - FGM",
+    "price": "R$ 56,20",
+    "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrmaxxinrfgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158924-200-200/20190424003650_6864993136_DM.jpg?v=637421019432930000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Ionômero de Vidro Restaurador GC Gold Label 9 R - GC",
+    "price": "R$ 131,90",
+    "href": "https://www.dentalecia.com.br/ionomerodevidrorestauradorgcgoldlabel9rgc/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170753-200-200/GCL9.gif?v=637623140221800000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
     "title": "Kit Ionômero de Vidro Ionglass R A3 - Maquira",
     "price": "R$ 40,25",
     "href": "https://www.dentalecia.com.br/kitinmerdevidringlassra3maquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158937-200-200/20190403135919_3437996563_D.jpg?v=637421023118700000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 1,
-    "title": "Kit Ionômero de Vidro Ionglass R A2 - Maquira",
-    "price": "R$ 41,61",
-    "href": "https://www.dentalecia.com.br/kitinmerdevidringlassra2maquira/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158936-200-200/20190403134534_8881991119_D.jpg?v=637421022818270000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 2,
+    "id": 3,
     "title": "Ionômero de Vidro Vitrebond - 3M",
     "price": "R$ 889,90",
     "href": "https://www.dentalecia.com.br/inmerdevidrvitrebnd3m/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158934-200-200/20200804111517_825999175_D.jpg?v=637421022236470000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Ionômero de Vidro Restaurador Vitro Fil LC - Nova DFL",
     "price": "R$ 175,90",
     "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrvitrfillcnvadfl/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/159323-200-200/294025000_3.jpg?v=637429403892500000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Ionômero de Vidro Restaurador Vitremer Líquido - 3M",
     "price": "R$ 421,50",
     "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrvitremerliquid3m/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158929-200-200/20200804164714_8141991859_D.jpg?v=637421020721870000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Ionômero de Vidro Restaurador Vitremer - 3M",
     "price": "R$ 847,99",
     "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrvitremer3m/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158928-200-200/20200804114006_8708991292_D.jpg?v=637421020276800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 6,
-    "title": "Ionômero de Vidro Restaurador Microglass R - Microdont",
-    "price": "R$ 45,12",
-    "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrmicrglassrmicrdnt/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158926-200-200/20190613201948_2979997021_D.jpg?v=637421019848500000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 7,
-    "title": "Ionômero de Vidro Restaurador Maxxion R - FGM",
-    "price": "R$ 38,99",
-    "href": "https://www.dentalecia.com.br/inmerdevidrrestauradrmaxxinrfgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158924-200-200/20190424003650_6864993136_DM.jpg?v=637421019432930000",
+    "title": "Ionômero de Vidro Para Cimentação Ketac Cem Easymix - 3M",
+    "price": "R$ 472,50",
+    "href": "https://www.dentalecia.com.br/inmerdevidrparacimentacaketaccemeasymix3m/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170465-200-200/267075.jpg?v=637601625654800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 8,
-    "title": "Ionômero de Vidro Para Cimentação Ketac Cem Easymix - 3M",
-    "price": "R$ 448,00",
-    "href": "https://www.dentalecia.com.br/inmerdevidrparacimentacaketaccemeasymix3m/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158920-200-200/20200804181729_5107994893_D.jpg?v=637421018272430000",
+    "title": "Ionômero de Forrador Vidro Vidrion F - SS White",
+    "price": "R$ 82,90",
+    "href": "https://www.dentalecia.com.br/inmerdefrradrvidrvidrinfsswhite/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170247-200-200/vidrionf.gif?v=637582364511200000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 9,
-    "title": "Ionômero de Forrador Vidro Vidrion F - SS White",
-    "price": "R$ 63,31",
-    "href": "https://www.dentalecia.com.br/inmerdefrradrvidrvidrinfsswhite/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168395-200-200/20190510033422_2236997764.jpg?v=637469301583170000",
+    "title": "Ionômero de Vidro Restaurador GC Gold Label 2 LC R - GC",
+    "href": "https://www.dentalecia.com.br/ionomerodevidrorestauradorgcgoldlabel2lcrgc/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170752-200-200/gcla3.gif?v=637623048654900000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:06.750Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Kit Ionômero de Vidro Ionglass R A2 - Maquira",
+    "href": "https://www.dentalecia.com.br/kitinmerdevidringlassra2maquira/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158936-200-200/20190403134534_8881991119_D.jpg?v=637421022818270000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:20.980Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

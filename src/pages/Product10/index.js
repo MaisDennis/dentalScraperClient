@@ -5,7 +5,7 @@ import { FaEye } from 'react-icons/fa';
 import CategoryMenu from '../../components/CategoryMenu';
 import sort from '../../utils/sort';
 import sortSurya from '../../utils/sortSurya';
-import sortOnly from '../../utils/sortOnly'
+// import sortOnly from '../../utils/sortOnly'
 import filters from '../../utils/filters';
 import nonFilters from '../../utils/nonFilters';
 import filtersSurya from '../../utils/filtersSurya';
@@ -44,6 +44,9 @@ export default function Dashboard(props) {
     switch (matchURL) {
       case ('/matriz+metal'): crKey = metalCrMatriz; spKey = metalSpMatriz;  onKey = metalOnMatriz; ciKey = metalCiMatriz; suKey = metalSuMatriz; break;
       case ('/matriz+poliester'): crKey = nonMetalCrMatriz; spKey = nonMetalSpMatriz;  onKey = nonMetalOnMatriz; ciKey = nonMetalCiMatriz; suKey = nonMetalSuMatriz; break;
+      default: crKey = nonMetalCrMatriz; spKey = nonMetalSpMatriz;  
+        // onKey = nonMetalOnMatriz; 
+        ciKey = nonMetalCiMatriz; suKey = nonMetalSuMatriz; break;
     }
   }
 
@@ -51,7 +54,7 @@ export default function Dashboard(props) {
 
   crKey = sort(crKey); 
   spKey = sort(spKey);
-  onKey = sort(onKey);
+  // onKey = sort(onKey);
   ciKey = sort(ciKey);
   suKey = sortSurya(suKey); 
 
@@ -60,8 +63,8 @@ export default function Dashboard(props) {
   const [cremerListDefault] = useState(crKey);
   const [speed, setSpeed] = useState(spKey);
   const [speedListDefault] = useState(spKey);
-  const [only, setOnly] = useState(onKey);
-  const [onlyListDefault] = useState(onKey);
+  // const [only, setOnly] = useState(onKey);
+  // const [onlyListDefault] = useState(onKey);
   const [cia, setCia] = useState(ciKey);
   const [ciaListDefault] = useState(ciKey);
   const [surya, setSurya] = useState(suKey);
@@ -70,10 +73,11 @@ export default function Dashboard(props) {
   useEffect(() => {
     setCremer(crKey);
     setSpeed(spKey);
-    setOnly(onKey);
+    // setOnly(onKey);
     setCia(ciKey);
     setSurya(suKey)
   }, [props.match.path])
+  // }, [crKey, spKey, ciKey, suKey])
 
   const updateInput = async (input) => {
     const filteredCremer = cremerListDefault.filter(c => {
@@ -85,10 +89,10 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
-    const filteredOnly = onlyListDefault.filter(s => {
-      let titleDetail = s.title + s.brand
-      return titleDetail.toLowerCase().includes(input.toLowerCase())
-    })
+    // const filteredOnly = onlyListDefault.filter(s => {
+    //   let titleDetail = s.title + s.brand
+    //   return titleDetail.toLowerCase().includes(input.toLowerCase())
+    // })
     const filteredCia = ciaListDefault.filter(s => {
       let titleDetail = s.title
       return titleDetail.toLowerCase().includes(input.toLowerCase())
@@ -100,7 +104,7 @@ export default function Dashboard(props) {
       setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
-    setOnly(filteredOnly);
+    // setOnly(filteredOnly);
     setCia(filteredCia);
     setSurya(filteredSurya);
   }

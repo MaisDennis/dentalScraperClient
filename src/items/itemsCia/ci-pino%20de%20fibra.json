@@ -1,129 +1,161 @@
 [
   {
     "id": 0,
+    "title": "Pino de Fibra de Vidro Exacto - Angelus",
+    "price": "R$ 49,90",
+    "href": "https://www.dentalecia.com.br/pindefibradevidrexactangelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158575-200-200/Pino-de-Fibra-de-Vidro-Exacto---Angelus-1.jpg?v=637420880189200000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Pino de Fibra de Vidro Reforpin Universal - Angelus",
+    "price": "R$ 53,00",
+    "href": "https://www.dentalecia.com.br/pino-de-fibradevidroreforpinuniversalangelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170075-200-200/reforpinuniversal.gif?v=637568795365830000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
     "title": "Pino de Fibra de Vidro Fiber Post - Maquira",
     "price": "R$ 46,90",
     "href": "https://www.dentalecia.com.br/pindefibradevidrfiberpstmaquira/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158579-200-200/Pino-de-Fibra-de-Vidro-Fiber-Post---Maquira-05.jpg?v=637420881277800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 1,
-    "title": "Pino de Fibra de Vidro Exacto - Angelus",
-    "price": "R$ 57,40",
-    "href": "https://www.dentalecia.com.br/pindefibradevidrexactangelus/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158575-200-200/Pino-de-Fibra-de-Vidro-Exacto---Angelus-1.jpg?v=637420880189200000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 2,
-    "title": "Pino de Fibra de Vidro Splendor SAP - Angelus",
-    "price": "R$ 98,00",
-    "href": "https://www.dentalecia.com.br/pindefibradevidrsplendrsapangelus/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158587-200-200/Pino-de-Fibra-de-Vidro-Splendor-SAP---Angelus.jpg?v=637420883341200000",
-    "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
-      "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 3,
     "title": "Pino de Fibra de Vidro Reforpost - Angelus",
-    "price": "R$ 56,90",
+    "price": "R$ 57,40",
     "href": "https://www.dentalecia.com.br/pindefibradevidrrefrpstangelus/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158584-200-200/Pino-de-Fibra-de-Vidro-Reforpost---Angelus-3.jpg?v=637420882572600000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 4,
-    "title": "Pino de Fibra de Vidro WhitePost DC - FGM",
-    "price": "R$ 45,90",
-    "href": "https://www.dentalecia.com.br/pindefibradevidrwhitepstdcfgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158588-200-200/Pino-de-Fibra-de-Vidro-WhitePost-DC---FGM.jpg?v=637420884351970000",
+    "title": "Pino de Fibra de Vidro Splendor SAP - Angelus",
+    "price": "R$ 117,00",
+    "href": "https://www.dentalecia.com.br/pindefibradevidrsplendrsapangelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158587-200-200/Pino-de-Fibra-de-Vidro-Splendor-SAP---Angelus.jpg?v=637420883341200000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 5,
-    "title": "Pino de Fibra de Vidro WhitePost DCE - FGM",
-    "price": "R$ 45,90",
-    "href": "https://www.dentalecia.com.br/pindefibradevidrwhitepstdcefgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158592-200-200/Pino-de-Fibra-de-Vidro-WhitePost-DCE---FGM.jpg?v=637420885832470000",
+    "title": "Pino de Fibra de Vidro WhitePost DC - FGM",
+    "price": "R$ 37,89",
+    "href": "https://www.dentalecia.com.br/pindefibradevidrwhitepstdcfgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158590-200-200/Pino-de-Fibra-de-Vidro-WhitePost-DC---FGM.jpg?v=637420884630000000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 6,
-    "title": "Kit Pino de Fibra de Vidro Sortido Exacto - Angelus",
-    "price": "R$ 38,80",
-    "href": "https://www.dentalecia.com.br/kitpindefibradevidrsrtidexactangelus/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158573-200-200/Kit-Pino-de-Fibra-de-Vidro-Sortido-Exacto---Angelus.jpg?v=637420879161900000",
+    "title": "Pino de Fibra de Vidro WhitePost DCE - FGM",
+    "price": "R$ 37,89",
+    "href": "https://www.dentalecia.com.br/pindefibradevidrwhitepstdcefgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158594-200-200/Pino-de-Fibra-de-Vidro-WhitePost-DCE---FGM.jpg?v=637420886056600000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 7,
+    "title": "Pino Fibra Vidro System Whitepost Refil - FGM",
+    "price": "R$ 72,88",
+    "href": "https://www.dentalecia.com.br/pinodefibradevidrowhitepostsystemdc05fgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170744-200-200/pino-fibra-vidro-system-whitepost-refil-fgm-dental-cremer-120026.jpg?v=637622952306430000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Kit Pino de Fibra de Vidro Sortido Exacto - Angelus",
+    "price": "R$ 48,25",
+    "href": "https://www.dentalecia.com.br/kitpindefibradevidrsrtidexactangelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158573-200-200/Kit-Pino-de-Fibra-de-Vidro-Sortido-Exacto---Angelus.jpg?v=637420879161900000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
     "title": "Pino de Fibra de Vidro Reforpin - Angelus",
     "href": "https://www.dentalecia.com.br/pindefibradevidrrefrpinangelus/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158583-200-200/Pino-de-Fibra-de-Vidro-Reforpin---Angelus.jpg?v=637420882061530000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:34.049Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:58.033Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

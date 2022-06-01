@@ -6,16 +6,11 @@ import SearchBar from '../../components/Searchbar'
 import CategoryMenu from '../../components/CategoryMenu'
 import sort from '../../utils/sort'
 import sortSurya from '../../utils/sortSurya';
-import sortOnly from '../../utils/sortOnly'
-import filters from '../../utils/filters';
-import nonFilters from '../../utils/nonFilters';
-import filtersSurya from '../../utils/filtersSurya';
-import nonFiltersSurya from '../../utils/nonFiltersSurya';
 import SubDivision from '../../components/SubDivision';
 
 import cremerData from '../../items/itemsCremer/cr-acido.html.json'
 import speedData from '../../items/itemsSpeed/sp-acidos+fosforicos.json'
-import onlyData from '../../items/itemsOnly/on-condicionadores-acidos.json'
+// import onlyData from '../../items/itemsOnly/on-condicionadores-acidos.json'
 import ciaData from '../../items/itemsCia/ci-acido.json'
 import suryaData from '../../items/itemsSurya/su-acidos.html.json'
 // -----------------------------------------------------------------------------
@@ -23,7 +18,7 @@ export default function Dashboard() {
 
   let sortedCremerData = sort(cremerData)
   let sortedSpeedData = sort(speedData)
-  let sortedOnlyData = sort(onlyData)
+  // let sortedOnlyData = sort(onlyData)
   let sortedCiaData = sort(ciaData)
   let sortedSuryaData = sortSurya(suryaData)
 
@@ -32,8 +27,8 @@ export default function Dashboard() {
   const [ cremerListDefault ] = useState(sortedCremerData);
   const [ speed, setSpeed ] = useState(sortedSpeedData);
   const [ speedListDefault ] = useState(sortedSpeedData);
-  const [ only, setOnly ] = useState(sortedOnlyData);
-  const [ onlyListDefault ] = useState(sortedOnlyData);
+  // const [ only, setOnly ] = useState(sortedOnlyData);
+  // const [ onlyListDefault ] = useState(sortedOnlyData);
   const [ cia, setCia ] = useState(sortedCiaData);
   const [ ciaListDefault ] = useState(sortedCiaData);
   const [ surya, setSurya ] = useState(sortedSuryaData);
@@ -49,10 +44,10 @@ export default function Dashboard() {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
-    const filteredOnly = onlyListDefault.filter(s => {
-      let titleDetail = s.title + s.brand + s.details
-      return titleDetail.toLowerCase().includes(input.toLowerCase())
-    })
+    // const filteredOnly = onlyListDefault.filter(s => {
+    //   let titleDetail = s.title + s.brand + s.details
+    //   return titleDetail.toLowerCase().includes(input.toLowerCase())
+    // })
     const filteredCia = ciaListDefault.filter(s => {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
@@ -64,7 +59,7 @@ export default function Dashboard() {
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
-    setOnly(filteredOnly);
+    // setOnly(filteredOnly);
     setCia(filteredCia);
     setSurya(filteredSurya);
   }

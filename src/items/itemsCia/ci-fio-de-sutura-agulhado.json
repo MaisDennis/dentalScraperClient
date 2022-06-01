@@ -1,50 +1,81 @@
 [
   {
     "id": 0,
-    "title": "Fio de Sutura Seda Preta Trançada - Shalon",
-    "price": "R$ 45,90",
-    "href": "https://www.dentalecia.com.br/fidesuturasedapretatrancadashaln/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158414-200-200/20190510040824_4758995242_D.jpg?v=637420782640300000",
+    "title": "Fio de Sutura Nylon 3/8 CTI - Shalon",
+    "price": "R$ 46,90",
+    "href": "https://www.dentalecia.com.br/fidesuturanyln38ctishaln/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158408-200-200/20190509023309_5320994680_D.jpg?v=637420781208500000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:55.194Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:06.341Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
+    "title": "Fio de Sutura Seda Preta Trançada - Shalon",
+    "price": "R$ 57,90",
+    "href": "https://www.dentalecia.com.br/fidesuturasedapretatrancadashaln/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158414-200-200/20190510040824_4758995242_D.jpg?v=637420782640300000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:06.341Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Fio de Sutura Absorvível Vicryl - Ethicon",
+    "price": "R$ 29,80",
+    "href": "https://www.dentalecia.com.br/fiodesuturaabsorvivelvicrylethicon/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170662-200-200/fioabsorvivel4.gif?v=637616980432570000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:06.341Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
     "title": "Fio de Sutura Seda Preta Trançada - Ethicon",
     "price": "R$ 111,71",
     "href": "https://www.dentalecia.com.br/fidesuturasedapretatrancadaethicn/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158409-200-200/20190507161845_9342990658_D.jpg?v=637420781992900000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:55.194Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:06.341Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
-    "id": 2,
-    "title": "Fio de Sutura Nylon 3/8 CTI - Shalon",
-    "price": "R$ 46,90",
-    "href": "https://www.dentalecia.com.br/fidesuturanyln38ctishaln/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158404-200-200/20190509023309_5320994680_D.jpg?v=637420780775330000",
+    "id": 4,
+    "title": "Fio de Sutura Mononylon 4-0 - Ethicon",
+    "href": "https://www.dentalecia.com.br/fiodesuturamononylon40ethicon/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170648-200-200/fio-mononylon.gif?v=637616901435400000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:55.194Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:06.341Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]

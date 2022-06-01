@@ -1,129 +1,239 @@
 [
   {
     "id": 0,
-    "title": "Condicionar Ácido Porcelana 9% com 2 Seringas Porcelain Etch - Ultradent",
-    "price": "R$ 66,80",
-    "href": "https://www.dentalecia.com.br/cndicinaracidprcelana9cm2seringasprcelainetchultradent/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156767-200-200/20200802205238_1555998445_D.jpg?v=637418275784970000",
+    "title": "Condicionador Ácido Fluorídrico Porcelana 10% - Angelus",
+    "price": "R$ 16,90",
+    "href": "https://www.dentalecia.com.br/condicionadoracidofluoridricoporcelana10angelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170065-200-200/acidoporcelaangelus.gif?v=637568730458530000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "Condicionador Ácido Porcelana 10% Fluorídrico - Dentsply",
-    "price": "R$ 31,10",
-    "href": "https://www.dentalecia.com.br/cndicinadracidprcelana10fluridricdentsply/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167738-200-200/1430-Condicionador-Acido-Porcelana-10--Fluoridrico---Dentsply.jpg?v=637460845469530000",
+    "title": "Condicionador Ácido Fosfórico Potenza Attacco 35% com 3- PHS",
+    "price": "R$ 16,90",
+    "href": "https://www.dentalecia.com.br/condicionadoracidofosforicopotenzaattacco35com3phs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168671-200-200/123159.jpg?v=637485721344800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
-    "title": "Condicionador Ácido Gel P/ Porcelana 10% Fluorídrico - Maquira",
-    "price": "R$ 18,90",
-    "href": "https://www.dentalecia.com.br/cndicinadracidgelpprcelana10fluridricmaquira/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168348-200-200/20190313162012_5990994010.jpg?v=637469186577470000",
+    "title": "Condicionador Ácido Fosfórico Fusion Duralink 37% - Angelus",
+    "price": "R$ 5,90",
+    "href": "https://www.dentalecia.com.br/condicionador-acidofosforicofusionduralink37angelus/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170072-200-200/513035.jpg?v=637568773546800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 3,
     "title": "Condicionador Ácido Gel 37% Fosfórico - Maquira",
-    "price": "R$ 8,99",
+    "price": "R$ 5,45",
     "href": "https://www.dentalecia.com.br/cndicinadracidgel37fsfricmaquira/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156764-200-200/20190312172318_35999965_D.png?v=637418274062730000",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168662-200-200/385007_2.jpg?v=637485010253070000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 4,
-    "title": "Condicionador Ácido Fluorídrico Potenza Attacco HF 10% - PHS",
-    "price": "R$ 20,99",
-    "href": "https://www.dentalecia.com.br/cndicinadracidfluridricptenzaattacchf10phs/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158694-200-200/20200720165332_204999796_D.png?v=637420955499070000",
+    "title": "Condicionador Ácido Condac 37% - FGM",
+    "price": "R$ 15,89",
+    "href": "https://www.dentalecia.com.br/cndicinadracidcndac37fgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170317-200-200/conda37.gif?v=637590180433870000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 5,
-    "title": "Condicionador Ácido Condac Porcelana 10% - FGM",
-    "price": "R$ 24,70",
-    "href": "https://www.dentalecia.com.br/cndicinadracidcndacprcelana10fgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156763-200-200/20190510000140_2949997051_D.jpg?v=637418273701370000",
+    "title": "Condicionador Ácido Fosfórico Ultra Etch IndiSpense 35% e Adesivo Peak 4ml - Ultradent",
+    "price": "R$ 194,90",
+    "href": "https://www.dentalecia.com.br/condicionadoracidofosforicoultraetchindispense35eadesivopeak4mlultradent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169273-200-200/Captura-de-Tela-2021-03-17-a%CC%80s-16.51.50.png?v=637516075788370000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 6,
-    "title": "Condicionador Ácido Condac 37% - FGM",
-    "price": "R$ 17,50",
-    "href": "https://www.dentalecia.com.br/cndicinadracidcndac37fgm/p",
-    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167739-200-200/1424-Condicionador-Acido-Condac-37----FGM.jpg?v=637460845837170000",
+    "title": "Condicionador Ácido Potenza Attacco 35% Seringa de 50g - PHS",
+    "price": "R$ 44,90",
+    "href": "https://www.dentalecia.com.br/condicionadoracidopotenzaattacco35seringade50gphs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168544-200-200/condicionador-acido-potenza-attacco-35-seringa-de-50g-phs-13721.png?v=637478829669330000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 7,
     "title": "Condicionador Ácido Fosfórico Potenza Attacco 35% - PHS",
+    "price": "R$ 8,99",
     "href": "https://www.dentalecia.com.br/cndicinadracidfsfricptenzaattacc35phs/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168352-200-200/20200720174323_1568998432.png?v=637469197604030000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:32:59.932Z\"",
-      "mins": 32,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Condicionador Ácido Condac Porcelana 10% - FGM",
+    "price": "R$ 26,51",
+    "href": "https://www.dentalecia.com.br/cndicinadracidcndacprcelana10fgm/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156763-200-200/20190510000140_2949997051_D.jpg?v=637418273701370000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
+    "title": "Condicionar Ácido Porcelana 9% com 2 Seringas Porcelain Etch - Ultradent",
+    "price": "R$ 72,00",
+    "href": "https://www.dentalecia.com.br/cndicinaracidprcelana9cm2seringasprcelainetchultradent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/156767-200-200/20200802205238_1555998445_D.jpg?v=637418275784970000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Condicionador Ácido Gel P/ Porcelana 10% Fluorídrico - Maquira",
+    "price": "R$ 18,90",
+    "href": "https://www.dentalecia.com.br/cndicinadracidgelpprcelana10fluridricmaquira/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168348-200-200/20190313162012_5990994010.jpg?v=637469186577470000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 11,
+    "title": "Condicionador Ácido Fluorídrico Potenza Attacco HF 10% - PHS",
+    "price": "R$ 21,70",
+    "href": "https://www.dentalecia.com.br/cndicinadracidfluridricptenzaattacchf10phs/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/158694-200-200/20200720165332_204999796_D.png?v=637420955499070000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 12,
+    "title": "Condicionador Ácido Fosfórico Ultra Etch IndiSpense 35% e Micro Tips - Ultradent",
+    "href": "https://www.dentalecia.com.br/condicionadoracidofosforicoultraetchindispense35emicrotipsultradent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169272-200-200/Captura-de-Tela-2021-03-17-a%CC%80s-16.26.01.png?v=637516059968000000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "Condicionador Ácido Fosfórico Ultra Etch IndiSpense 35% - Ultradent",
+    "href": "https://www.dentalecia.com.br/condicionadoracidofosforicoultraetchindispense35ultradent/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/169043-200-200/196771.jpg?v=637499659551500000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Condicionador Ácido Porcelana 10% Fluorídrico - Dentsply",
+    "href": "https://www.dentalecia.com.br/cndicinadracidprcelana10fluridricdentsply/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167738-200-200/1430-Condicionador-Acido-Porcelana-10--Fluoridrico---Dentsply.jpg?v=637460845469530000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:13.325Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

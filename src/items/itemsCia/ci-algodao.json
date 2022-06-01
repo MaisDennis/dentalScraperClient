@@ -2,49 +2,65 @@
   {
     "id": 0,
     "title": "Algodão Rolete Dental - SSPLUS",
-    "price": "R$ 1,99",
+    "price": "R$ 2,45",
     "href": "https://www.dentalecia.com.br/algdarletedentalssplus/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/168181-200-200/20190417034849_9495990505_D.jpg?v=637465939383430000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:10.857Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:26.181Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 1,
     "title": "Algodão Rolete c/ 100 unidades - Soft Plus",
-    "price": "R$ 2,15",
+    "price": "R$ 2,49",
     "href": "https://www.dentalecia.com.br/algdarletec100unidadessftplus/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167507-200-200/273Algoda%CC%83o-Rolete-c--100-unidades---Soft-Plus.png?v=637460686315800000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:10.857Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:26.181Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   },
   {
     "id": 2,
+    "title": "Algodão Rolete Dental - Cremer",
+    "price": "R$ 4,60",
+    "href": "https://www.dentalecia.com.br/algodaoroletedentalcremer/p",
+    "img": "https://dentalecia.vteximg.com.br/arquivos/ids/170706-200-200/rolete1.gif?v=637618608683230000",
+    "time": {
+      "stringifiedTimeData": "\"2021-07-20T13:39:26.181Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
     "title": "Algodão 500G - Medi House",
-    "price": "R$ 14,90",
+    "price": "R$ 17,90",
     "href": "https://www.dentalecia.com.br/algda500gmedihuse/p",
     "img": "https://dentalecia.vteximg.com.br/arquivos/ids/167506-200-200/272Algoda%CC%83o-500G---Medi-House.jpg?v=637460685581000000",
     "time": {
-      "stringifiedTimeData": "\"2021-01-24T19:33:10.857Z\"",
-      "mins": 33,
-      "hours": 16,
-      "theDate": 24,
-      "theMonth": 1,
+      "stringifiedTimeData": "\"2021-07-20T13:39:26.181Z\"",
+      "mins": 39,
+      "hours": 10,
+      "theDate": 20,
+      "theMonth": 7,
       "theYear": 2021,
-      "theDay": 0
+      "theDay": 2
     }
   }
 ]
